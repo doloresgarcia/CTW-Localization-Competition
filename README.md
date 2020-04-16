@@ -10,10 +10,11 @@ Hybrid model:
 2. DL Model: Contrains the trained DL models and the Hybrid (a regression model to merge the FP with the DL models)
 
 
-This images shows the two trainings:
-![Image of Training](https://github.com/doloresgarcia/CTW-Localization-Competition/blob/master/Training_readme.jpg)
+This images shows the two trainings, 
+after, we apply the regression model to the result of the training of both models:
 
-After, we apply the regression model to the result of the training of both models:
+![Image of Training](https://github.com/doloresgarcia/CTW-Localization-Competition/blob/master/ReadMEexplanatoryFig.jpg)
 
-![Image of Training](https://github.com/doloresgarcia/CTW-Localization-Competition/blob/master/Training_readme.jpg)
+
+
 
