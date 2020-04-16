@@ -8,3 +8,5 @@ Hybrid model:
 1. FingerPrint_Model: contains FP model with data 
    Outputs: csv file with the estimation from the FP model
 2. DL Model: Contrains the trained DL models and the Hybrid (a regression model to merge the FP with the DL models)
+
+![Figure1](C:\Users\Dolor\OneDrive\Phd\FDL interview\CTW Localization-Competition\CTW-Localization-Competition)
