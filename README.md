@@ -9,4 +9,11 @@ Hybrid model:
    Outputs: csv file with the estimation from the FP model
 2. DL Model: Contrains the trained DL models and the Hybrid (a regression model to merge the FP with the DL models)
 
-![Figure1](C:\Users\Dolor\OneDrive\Phd\FDL interview\CTW Localization-Competition\CTW-Localization-Competition)
+
+This images shows the two trainings:
+![Image of Training](https://github.com/doloresgarcia/CTW-Localization-Competition/blob/master/Training_readme.jpg)
+
+After, we apply the regression model to the result of the training of both models:
+
+![Image of Training](https://github.com/doloresgarcia/CTW-Localization-Competition/blob/master/Training_readme.jpg)
+
